@@ -1,0 +1,27 @@
+VIDEO: /home/sangheon/Desktop/sfx/segment_source.mp4
+DURATION: 10.04s  |  SEGMENTS: 5 x 2.0s
+
+========== SEGMENT 0  [0.0s ~ 2.0s] ==========
+[Qwen3-VL] A person wearing a brown coat and a beige hat is shoveling snow from a driveway. They are using a shovel to push the snow to the side, away from the parked cars. The driveway is partially covered in snow and ice, and the person is working to clear a path. The building in the background has a gray exterior and a few windows.
+[RAM++ tags] blanket | snowstorm | car | driveway | person | man | push | shovel | snow | stand | suv | vehicle
+[Places365] outdoor | driveway (0.449), ice_floe (0.188), loading_dock (0.055), igloo (0.053), manufactured_home (0.047)
+
+========== SEGMENT 1  [2.0s ~ 4.0s] ==========
+[Qwen3-VL] In this short clip, a person is shoveling snow from a driveway or parking area. The person is wearing a dark jacket and a light-colored hat, and is using a shovel to push snow away from a parked black car. The snow is piled up in large chunks, and the person is working to clear a path. The background shows a building with windows, and the ground is covered in snow and ice. The person appears to be working diligently to clear the snow, and the scene suggests a cold winter day.
+[RAM++ tags] blanket | car | clean | driveway | man | shovel | snow | suv | vehicle
+[Places365] outdoor | driveway (0.464), loading_dock (0.116), manufactured_home (0.100), parking_lot (0.058), ice_floe (0.054)
+
+========== SEGMENT 2  [4.0s ~ 6.0s] ==========
+[Qwen3-VL] In this short clip, a person is shoveling snow from a driveway or parking area next to a dark-colored car. The person is wearing a brown coat, black pants, and a light-colored hat or head covering. They are using a shovel to push snow to the side, creating a pile. The ground is partially covered in snow and ice, with some areas cleared. The setting appears to be in front of a building with a corrugated metal exterior and windows. The person is focused on clearing the snow, moving methodically to clear a path.
+[RAM++ tags] blanket | car | driveway | person | man | push | shovel | snow
+[Places365] outdoor | driveway (0.609), ice_floe (0.121), igloo (0.039), loading_dock (0.037), yard (0.035)
+
+========== SEGMENT 3  [6.0s ~ 8.0s] ==========
+[Qwen3-VL] A person wearing dark pants and boots is shoveling snow off a sidewalk. They are using a shovel to scoop up the snow and ice, moving it to the side. The sidewalk is partially cleared, with patches of snow and ice remaining. A car is parked nearby, and the person is working near the front of the vehicle. The person is wearing a scarf and appears to be focused on clearing the snow.
+[RAM++ tags] blanket | snowstorm | person | man | pavement | push | shovel | ski pole | skier | snow | stand | walk
+[Places365] outdoor | ice_floe (0.715), igloo (0.129), ice_shelf (0.075), iceberg (0.021), glacier (0.015)
+
+========== SEGMENT 4  [8.0s ~ 10.0s] ==========
+[Qwen3-VL] In this short clip, a person is shoveling snow from a sidewalk or driveway. The individual is wearing dark pants and boots, and they are using a shovel with a metal blade to push and scoop the snow. The snow appears to be partially melted, with patches of ice and slush visible on the ground. The person is working methodically, clearing a path by moving the snow to the side. The background shows a building with windows, indicating that this is likely taking place in front of a residential or commercial property. The overall scene suggests a typical winter chore of snow removal.
+[RAM++ tags] blanket | snowstorm | catch | driveway | person | man | pavement | shovel | snow | stand
+[Places365] outdoor | ice_floe (0.840), igloo (0.076), ice_shelf (0.041), iceberg (0.021), glacier (0.005)

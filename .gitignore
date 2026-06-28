@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+# large model weights / data — adjust to what `find` showed you
+*.pth
+*.pth.tar
+*.caffemodel
+*.ckpt
+*.safetensors
+*.npy
+*.h5
+data/
